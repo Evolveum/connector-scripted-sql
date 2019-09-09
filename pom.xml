@@ -36,7 +36,7 @@
 
     <groupId>com.evolveum.polygon</groupId>
     <artifactId>connector-scripted-sql</artifactId>
-    <version>2.1-SNAPSHOT</version>
+    <version>2.1</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -46,8 +46,8 @@
         <connectorClass>ScriptedSQLConnector</connectorClass>
 
         <groovy.version>2.4.15</groovy.version>
-        <dbcommon.version>2.1-SNAPSHOT</dbcommon.version>
-        <connector.groovy.version>2.1-SNAPSHOT</connector.groovy.version>
+        <dbcommon.version>2.1</dbcommon.version>
+        <connector.groovy.version>2.1</connector.groovy.version>
         <h2.version>1.4.197</h2.version>
     </properties>
 
