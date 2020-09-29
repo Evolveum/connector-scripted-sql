@@ -21,6 +21,8 @@
  with the fields enclosed by brackets [] replaced by
  your own identifying information:
  "Portions Copyrighted [year] [name of copyright owner]"
+
+ Portions Copyrighted 2018-2020 Evolveum
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
@@ -46,8 +48,8 @@
         <connectorClass>ScriptedSQLConnector</connectorClass>
 
         <groovy.version>2.4.15</groovy.version>
-        <dbcommon.version>2.1</dbcommon.version>
-        <connector.groovy.version>2.1</connector.groovy.version>
+        <dbcommon.version>2.2</dbcommon.version>
+        <connector.groovy.version>2.2</connector.groovy.version>
         <h2.version>1.4.197</h2.version>
     </properties>
 
