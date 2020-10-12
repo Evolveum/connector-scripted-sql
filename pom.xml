@@ -38,7 +38,7 @@
 
     <groupId>com.evolveum.polygon</groupId>
     <artifactId>connector-scripted-sql</artifactId>
-    <version>2.3-SNAPSHOT</version>
+    <version>2.2.1</version>
     <packaging>jar</packaging>
 
     <properties>
