@@ -49,7 +49,7 @@
 
         <groovy.version>2.4.15</groovy.version>
         <dbcommon.version>2.2</dbcommon.version>
-        <connector.groovy.version>2.3-SNAPSHOT</connector.groovy.version>
+        <connector.groovy.version>2.3</connector.groovy.version>
         <h2.version>1.4.197</h2.version>
     </properties>
 
